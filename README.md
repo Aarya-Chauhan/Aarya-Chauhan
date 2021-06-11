@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development using HTML ,CSS ,Java Script and python basics
 - 💞️ I’m looking to collaborate on web development programmes
-- 📫 you an reach me via my instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my linkdin profile i.e.  https://www.linkedin.com/in/aarya-chauhan-145ba0207/ or twitter account @AaryaChauhan20.
+- 📫 you an reach me via my instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my linkdin profile i.e.  https://www.linkedin.com/in/aarya-chauhan-145ba0207/ or twitter account https://twitter.com/AaryaChauhan20 .
 
 
 
