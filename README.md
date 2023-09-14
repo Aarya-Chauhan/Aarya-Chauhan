@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/images/Screenshot (41).png" alt="my banner"></a>
+  <img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/images/Screenshot (41).png" alt="my banner"></a>
 </p>
 - 👋 Hi, I’m @Aarya-Chauhan
 - 📫 you can reach me via my Instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my LinkedIn profile i.e.
