@@ -5,11 +5,6 @@
 
 
 
-No file chosen
-Welcome to Twitter!
-This is the best place to see what’s happening in your world. Find some people and topics to follow now.
-
-
 <!---
 Aarya-Chauhan/Aarya-Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
