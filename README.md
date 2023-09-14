@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/images/Screenshot (41).png" alt="my banner"></a>
+</p>
 - 👋 Hi, I’m @Aarya-Chauhan
-- 📫 you an reach me via my instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my linkdin profile i.e.
+- 📫 you can reach me via my Instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my LinkedIn profile i.e.
 - https://www.linkedin.com/in/aarya-chauhan/ or twitter account https://twitter.com/AaryaChauhan20 .
 
 
