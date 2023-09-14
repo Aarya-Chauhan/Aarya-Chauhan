@@ -1,10 +1,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/images/Screenshot (41).png" alt="my banner"></a>
 </p>
-- 👋 Hi, I’m @Aarya-Chauhan
-- 📫 you can reach me via my Instagram account i.e. https://www.instagram.com/aarya.chauhan19/ or my email account aaryachauhan11@gmail.com or via my LinkedIn profile i.e.
-- https://www.linkedin.com/in/aarya-chauhan/ or twitter account https://twitter.com/AaryaChauhan20 .
 
+<h3 align="center">
+Hi there 👋, I'm Aarya Chauhan</a> 
+</h3>
+
+<h2 align="center">
+I'm a Front-end Web Developer 💻 and a Machine Learning Enthusiast 🤓.
+</h2> 
+
+🌐I am a Fullstack web developer with a love for frontend magic and backend logic and 🤖 Machine learning aficionado, always exploring the limitless possibilities of AI.
 
 
 
