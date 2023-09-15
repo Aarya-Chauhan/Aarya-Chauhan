@@ -11,7 +11,7 @@ I'm a Fullstack Web Developer 💻 and a Machine Learning Enthusiast 🤓.
 </h3> 
 
 I am a Fullstack web developer with a love for frontend magic and backend logic and a Machine learning aficionado, always exploring the limitless possibilities of AI.
-## 💻 Tech Stack:
+
 
 
 ## 📈 GitHub Stats 
