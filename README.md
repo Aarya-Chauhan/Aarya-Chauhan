@@ -58,6 +58,8 @@ I am a Fullstack web developer with a love for frontend magic and backend logic 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aarya-Chauhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya1101" align='center' /> 
 
 <!---
 Aarya-Chauhan/Aarya-Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
