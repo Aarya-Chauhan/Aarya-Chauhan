@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/images/banner1.png" alt="my banner"></a>
-</p>
+Hi 👋 My name is Aarya Chauhan
+===============================
 
-<h1 align="center">
-Hi there 👋, I'm Aarya</a> 
-</h1>
+Fullstack developer and a Machine Learning enthusiast
+-----------------------------
 
-<h3 align="center">
-I'm a Fullstack Web Developer 💻 and a Machine Learning Enthusiast 🤓.
-</h3> 
-
-I am a Fullstack web developer with a love for frontend magic and backend logic and a Machine learning aficionado, always exploring the limitless possibilities of AI.
+* 🌍  I'm based in Kanpur, India
+* ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 ## 💼 Technical Skills
 
@@ -52,11 +49,11 @@ I am a Fullstack web developer with a love for frontend magic and backend logic 
 ## 📈 GitHub Stats 
 
 [![Aarya's github stats](https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan)](https://github.com/Aarya-Chauhan)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chauhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chauhan&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aarya-Chauhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aarya-Chauhan&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ### Profile Views
 <img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya1101" align='center' /> 
