@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
+<img height=280 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 
 <h1 align="center">Hi 👋, I'm Aarya Chauhan</h1>
 <h3 align="center">Full Stack developer and a Machine Learning Enthusiast</h3>
@@ -63,8 +63,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chauhan&theme=light&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aarya-Chauhan&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 
 
