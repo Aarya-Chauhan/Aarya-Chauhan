@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 
-Hi 👋 My name is Aarya Chauhan
-===============================
+<h1 align="center">Hi 👋, I'm Aarya Chauhan</h1>
+<h3 align="center">Full Stack developer and a Machine Learning Enthusiast</h3>
+<img align="right" width=400 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/hiii.gif" alt="my gif file">
 
-Full stack developer and a Machine Learning enthusiast
------------------------------
 
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya1101" align='center' /> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya_c11" />&nbsp &nbsp &nbsp</p>
 
 * 🌍  I'm based in Kanpur, India
 * ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer, or dev rel.
+* 🤝  I'm open to collaborating on exciting projects as a
+  frontend developer, designer, or dev rel.
 
 
 ## 🌐 Socials
