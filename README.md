@@ -1,15 +1,18 @@
+
+
 Hi 👋 My name is Aarya Chauhan
 ===============================
 
 Full stack developer and a Machine Learning enthusiast
 -----------------------------
 
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya1101" align='center' /> 
+
 * 🌍  I'm based in Kanpur, India
 * ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
-
-
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer, or dev rel.
 
 
 ## 🌐 Socials
@@ -55,15 +58,15 @@ Full stack developer and a Machine Learning enthusiast
 
 ## 📈 GitHub Stats 
 
-[![Aarya's github stats](https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan)](https://github.com/Aarya-Chauhan)
+<p><img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact' alt="aarya_c11"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan&show_icons=true&locale=en" alt="aarya_c11" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chauhan&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aarya-Chauhan&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya1101" align='center' /> 
+
 
 <!---
 Aarya-Chauhan/Aarya-Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
