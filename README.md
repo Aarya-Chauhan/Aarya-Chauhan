@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 
 Hi 👋 My name is Aarya Chauhan
 ===============================
