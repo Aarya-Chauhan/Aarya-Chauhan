@@ -1,75 +1,71 @@
-<img height=280 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
+## Experience
+### Freelancing Eccentric India
+*Jul 2023 - Sep 2023*
+- Engineered a MERN web app, elevating online presence and boosting customer engagement with a 40% increase in product views.
+- Managed Ecentric India's backend, integrated shipping, and Stripe, yielding a 30% increase in successful transactions for the web app.
+- Implemented product comments, user/admin roles, and 2-currency support (INR/USD) for enhanced MERN app functionality.
+- **Technical Stacks:** JavaScript, TailWindCSS, React.js, Redux, Stripe API, Node.js, Express, JSON Web Token, and MongoDB.
 
-<h1 align="center">Hi 👋, I'm Aarya Chauhan</h1>
-<h3 align="center">Full Stack developer and a Machine Learning Enthusiast</h3>
-<img align="right" width=400 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/hiii.gif" alt="my gif file">
+### Open Source Contribution [Activist](https://github.com/activist-org/activist) 
+#### [Source Code](https://github.com/activist-org/activist/pull/98)
+*Apr 2023 - May 2023*
+- Elevated user interface by constructing a robust hotkey system using JavaScript and Vue.js.
+- Improved user experience, boosted efficiency, and increased website accessibility by 5% through this enhancement.
 
+## Education
+- **Bachelor of Technology - IT**
+  - CGPA: 8.05
+  - PSIT College of Engineering, Kanpur, UP, IN
+  - Sep 2020 - Present
 
+- **Intermediate School**
+  - Percentage: 86
+  - Seth Anandram Jaipuria School, Kanpur, UP, IN
+  - Apr 2018 - Apr 2019
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aarya-Chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="aarya_c11" />&nbsp &nbsp &nbsp</p>
+## Skills
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-* 🌍  I'm based in Kanpur, India
-* ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on exciting projects as a
-  frontend developer, designer, or dev rel.
+## Projects
+### [Consumer-2-Consumer](https://consumer-2-consumer.netlify.app/) 
+#### [Source Code](https://github.com/mud1tx/Consumer)
+*Jul 2023 - Present*
+- Crafted a user-friendly site for lenders and borrowers, streamlining listings, searches, and communication for enhanced interaction.
+- Leveraged Multer and Sharp to facilitate secure uploads, resulting in a 25% increase in user engagement and item listings.
+- Engineered socket for 100% real-time discussions, enhancing engagement and interaction among enthusiasts.
+- **Technical Stacks:** JavaScript, TailWindCSS, React.js, Redux, Stripe API, Node.js, Express.js, Sockets, Sharp, Multer, and MongoDB.
 
+### [HouseSpot](https://house-spot.vercel.app/) 
+#### [Source Code](https://github.com/mud1tx/HouseSpot)
+*Jan 2023 - Mar 2023*
+- Crafted a user-centric rental web app that significantly enhances convenience by making it 40% easier and quicker to search for houses.
+- This website facilitates direct owner communication, eliminating third-party involvement, saving users 30% in fees.
+- **Technical Stacks:** TypeScript, Next.js, Zustad, Tailwind CSS, NextAuth, and PostgreSQL.
 
-## 🌐 Socials
-<p align="left">
-<a href="https://twitter.com/AaryaCh87439746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AaryaCh87439746" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aarya_c111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarya_c11" height="30" width="40" /></a>
-<a href="https://leetcode.com/aarya_chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarya_c11" height="30" width="40" /></a>
-</p>
+### [Shoppe](https://shoppe-ecommerce.netlify.app/) 
+#### [Source Code](https://github.com/mud1tx/Shoppe)
+*Aug 2022 - Oct 2022*
+- An expansive e-commerce web app, offering over 50 products, ensures seamless online browsing and secure, efficient purchasing.
+- Implemented the Stripe API for 100% secure payments, efficiently stored data in local storage, and delivered a modern interface design.
+- Revamped web app filters seamlessly integrate category, price, sorting, rating, and gender, yielding a 40% increase in user engagement.
+- **Technical Stacks:** React.js, Redux, CSS3, JavaScript, Firebase, and Stripe API.
 
-## 💼 Technical Skills
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-</br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-</be>
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
-## 📈 GitHub Stats 
-
-<p><img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact' alt="aarya_c11"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan&show_icons=true&locale=en" alt="aarya_c11" /></p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chauhan&theme=light&hide_border=false)<br/>
+### Maze 
+#### [Source Code](https://github.com/mud1tx/Maze)
+*Mar 2022 - May 2022*
+- Designed and architected a secure and user-centric NFT marketplace, facilitating the trade and exhibition of distinctive digital assets.
+- Enhanced NFT marketplace, delivering a seamless user experience with 30% faster browsing, buying, and selling capabilities.
+- **Technical Stacks:** Tailwind CSS, Next.js, Solidity, Node.js, Express.js, MongoDB, Rest API, Hardhat, and Ether.js.
 
 
 
+## Achievements
+- **[Coding](https://leetcode.com/mud1tx/):** 300+ problems solved on various online coding platforms and achieved a 100-day coding badge on Leetcode.
+- **[Blogs](https://thetechnopaths.blogspot.com/):** Authored 5 informative blogs focusing on Blockchain technology and Computer Networks.
+- **Open Source:** Actively contribute to various open-source projects, collaborating with developers to make meaningful contributions.
+- **Cloud computing:** Learning AWS, shell scripting, and CI/CD for proficient cloud computing and software delivery skills.
 
-<!---
-Aarya-Chauhan/Aarya-Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Certifications
+- **[JavaScript](https://drive.google.com/file/d/1wRhTtSZ0m-Nrak8g69V_rVATnZrcWZXo/view?usp=sharing):** A certified JavaScript developer is skilled in web apps, OOP, async programming, and security for robust applications.
+- **[React](https://drive.google.com/file/d/1UxKdla57utEEBMpW1qo0yIIyUtAx1eJE/view?usp=sharing):** Certified React specialist skilled in reusable components, Virtual DOM, data handling, Redux, and interactive UIs.
+- **[Computer Network](https://drive.google.com/file/d/1XS7sIXr10-yA0rkFYPoQ4jJmXBWB3zgB/view?usp=sharing):** Certified in computer networks, with foundational knowledge in network design and optimization.
