@@ -10,9 +10,10 @@
 
 * 🌍  I'm based in Kanpur, India
 * ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and OpenCV
 * 🤝  I'm open to collaborating on exciting projects as a
   frontend developer, designer, or dev rel.
+
 
 
 ## 🌐 Socials
