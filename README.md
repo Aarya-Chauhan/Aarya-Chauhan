@@ -1,4 +1,4 @@
-<img height=280 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
+<img height=290 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 
 <h1 align="center">Hi 👋, I'm Aarya Chauhan</h1>
 <h3 align="center">Full Stack developer and a Machine Learning Enthusiast</h3>
