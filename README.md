@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in Kanpur, India
 * ✉️  You can contact me at [aaryachauhan11@gmail.com](mailto:aaryachauhan11@gmail.com)
-* 🧠  I'm learning Nextjs and OpenCV
+* 🧠  I'm learning Reactjs and Docker
 * 🤝  I'm open to collaborating on exciting projects as a
   frontend developer, designer, or dev rel.
 
