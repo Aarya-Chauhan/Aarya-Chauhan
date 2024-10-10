@@ -63,7 +63,7 @@
 ## 📈 GitHub Stats 
 
 <p><img align='left' width='265px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Chauhan&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact' alt="aarya_c11"></p>
-<p>&nbsp;<img width='350px' align="center" src="https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan&show_icons=true&locale=en" alt="aarya_c11" /></p>
+<p>&nbsp;<img width='400px' align="center" src="https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan&show_icons=true&locale=en" alt="aarya_c11" /></p>
 
 
 
