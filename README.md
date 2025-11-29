@@ -59,7 +59,7 @@
 
 
 
-
+<!---
 ## 📈 GitHub Stats 
 
 <p>&nbsp;<img width='350px' align="center" src="https://github-readme-stats.vercel.app/api?username=Aarya-Chauhan&show_icons=true&locale=en" alt="aarya_c11" /></p>
@@ -69,8 +69,9 @@
 
 
 
-<!---
+
 Aarya-Chauhan/Aarya-Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
